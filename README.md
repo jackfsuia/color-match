@@ -24,7 +24,7 @@ python color_match_app.py
 1. **Upload Image / 上传图片**
    - Click "📁 上传图片" button / 点击"📁 上传图片"按钮
 
-2. **Select Sampling Point / 选择采样区域**
+2. **Select Sampling Point / 点击采样点**
 
 3. **Define Search Area (Optional) / 定义搜索区域（可选）**
    - Hold **Shift + Left-click and drag** to draw a lasso / 按住**Shift+左键拖拽**绘制套索
